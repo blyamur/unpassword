@@ -1,4 +1,4 @@
 # UnpassWord
 
 
-### Version 2.0 (current):
+### Version 1.2 (current):
