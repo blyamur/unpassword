@@ -17,5 +17,9 @@ UnpassWord - Удаление паролей из документов DOC (Pyth
 ## Principle of operation | Принцип работы
 
 ##  Known bugs | Известные ошибки
-- Can't find the password in some documents.
+- Can't find the password in some documents. 
+You can try on line 118 to change the value of psf [2] to psf [0] or psf [1], may vary depending on the version of the file.
 - В некоторых документах не находит пароль.
+Можно попробовать в строке 118 поменять значение psf[2] на psf[0] или psf[1], может варьироваться в зависимости от версии файла.
+
+
