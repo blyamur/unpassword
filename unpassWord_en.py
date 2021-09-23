@@ -159,7 +159,7 @@ def checkUpdate(method='Button'):
 		github_page = requests.get('https://raw.githubusercontent.com/blyamur/unpassword/main/README.md')
 		github_page_html = str(github_page.content).split()
 		
-		for i in range(0, 12):
+		for i in range(0, 5):
 			try:
 				index = github_page_html.index(('1.' + str(i)))
 				version = github_page_html[index]
