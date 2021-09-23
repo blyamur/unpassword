@@ -3,7 +3,7 @@ UnpassWord - Удаление паролей из документов DOC (Pyth
 
 ![Screenshot](https://github.com/blyamur/unpassword/blob/main/screenshot.png)
 
-## `Version 1.2` (current)
+## Version 1.2 (current)
 - The interface has been redesigned, the new one is made on the basis of the most lightweight TTK theme.
 - Improved script logic
 - You can open multiple files at once
