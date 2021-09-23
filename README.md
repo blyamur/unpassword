@@ -58,6 +58,8 @@ Non-commercial use only, for personal use
 
 TTK Theme `Spring-Drops` based on theme: Sun-Valley [rdbende](https://github.com/rdbende/Sun-Valley-ttk-theme) and Spring-Noon [blyamur](https://github.com/blyamur/Spring-Noon-ttk-theme)
 
+The script is presented in Russian and English versions. There is also an icon in .ICO  and .PNG format
+
 ---
 
 *Для тех кто хочет меня отблагодарить: ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [PayPal](https://paypal.me/enkonu) or [ko-fi](https://ko-fi.com/W7W460SQ3) )*
