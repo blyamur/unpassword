@@ -1,4 +1,4 @@
-## UnpassWord - Removing passwords from DOC documents (Python3 + TTK theme)
+### UnpassWord - Removing passwords from DOC documents (Python3 + TTK theme)
 UnpassWord - Удаление паролей из документов DOC (Python3 + TTK тема)
 
 ![Screenshot](https://github.com/blyamur/unpassword/blob/main/screenshot.png)
