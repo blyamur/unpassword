@@ -1,10 +1,21 @@
 ### UnpassWord - Removing passwords from DOC documents (Python3 + TTK theme)
 UnpassWord - Удаление паролей из документов DOC (Python3 + TTK тема)
 
-### Version 1.2 (current):
+## Version 1.2 (current)
+- The interface has been redesigned, the new one is based on the TTK theme.
+- Переработан интерфейс, новый сделан на основе ТТК темы. 
+- Improved script logic
+- Улучшена логика работы скрипта
 
-### How to use | Как использовать
+#### Version | Версия: 1.0
+- First version, main function: search and remove password from document
+- Первая версия, основная функция: поиск и удаление пароля из документа
 
-### Principle of operation | Принцип работы
 
-###  Known bugs | Известные ошибки
+## How to use | Как использовать
+
+## Principle of operation | Принцип работы
+
+##  Known bugs | Известные ошибки
+- Can't find the password in some documents.
+- В некоторых документах не находит пароль.
