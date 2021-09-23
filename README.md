@@ -2,8 +2,8 @@
 UnpassWord - Удаление паролей из документов DOC (Python3 + TTK тема)
 
 ## Version 1.2 (current)
-- The interface has been redesigned, the new one is based on the TTK theme.
-- Переработан интерфейс, новый сделан на основе ТТК темы. 
+- The interface has been redesigned, the new one is made on the basis of the most lightweight TTK theme.
+- Переработан интерфейс, новый сделан на основе максимально облегченной ТТК темы.
 - Improved script logic
 - Улучшена логика работы скрипта
 
