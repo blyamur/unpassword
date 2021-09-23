@@ -1,6 +1,9 @@
 ## UnpassWord - Removing passwords from DOC documents (Python3 + TTK theme)
 UnpassWord - Удаление паролей из документов DOC (Python3 + TTK тема)
 
+![Light screenshot](https://github.com/blyamur/unpassword/blob/master/screenshot.png)
+###### Screenshot taken on windows 7 | Скриншот сделан на windows 7
+
 ## `Version 1.2` (current)
 - The interface has been redesigned, the new one is made on the basis of the most lightweight TTK theme.
 - Improved script logic
@@ -49,3 +52,14 @@ The problem is related to a file access error. It often happens when a document 
 Проблема связана с ошибкой доступа к файлам. Происходит зачастую когда документ открывается из облачной папки или во время работы антивирус начинает перепроверять созданные временные файлы. При открытии следующего файла, папка удаляется автоматически или при новом запуске программы. 
 
 
+---
+
+Non-commercial use only, for personal use
+
+TTK Theme `Spring-Drops` based on theme: Sun-Valley [rdbende](https://github.com/rdbende/Sun-Valley-ttk-theme) and Spring-Noon [blyamur](https://github.com/blyamur/Spring-Noon-ttk-theme)
+
+---
+
+*Для тех кто хочет меня отблагодарить: ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [PayPal](https://paypal.me/enkonu) or [ko-fi](https://ko-fi.com/W7W460SQ3) )*
+
+*If You want to help me, you can buy me a cup of cup of coffee ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [PayPal](https://paypal.me/enkonu) or [ko-fi](https://ko-fi.com/W7W460SQ3) )*
