@@ -24,7 +24,16 @@ UnpassWord - Удаление паролей из документов DOC (Pyth
 
 ## How to use | Как использовать
 
+We run the script in the language of your choice. Click on the "select file" button and select the file or files from which you want to remove the restriction. After successful completion of the work, a new document with the unpassed prefix will appear in the same folder as the original.
+
+
+Запускаем скрипт на выбранном вами языке. Нажимаем на кнопку "выбрать файл" и выбираем файл или файлы с которых необходимо снять ограничение. После успешного завершения работы, появится новый документ с префиксом  unpassed , в той же папке где и оригинал.
+
 ## Principle of operation | Принцип работы
+
+After selecting the file, it is renamed into ZIP format, then the contents of the archive are unpacked into a temporary folder. From the file where the password is stored, the parameter with the password is deleted and everything is saved in the reverse order. And the temporary folder with the file is deleted.
+
+После выбора файла, он переименовывется в формат ZIP, затем содержимое архива распаковывается во временную папку.Из файла, где хранится пароль, удаляется парамтр с паролем и все сохраняется в обратном порядке. А временная папка с файлом удаляется. 
 
 ##  Known bugs | Известные ошибки
 - `Can't find the password in some documents`.
