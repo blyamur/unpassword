@@ -71,6 +71,4 @@ The script is presented in Russian and English versions. There is also an icon i
 <!-- 
 ---
 
-*Для тех кто хочет меня отблагодарить: ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [PayPal](https://paypal.me/enkonu) or [ko-fi](https://ko-fi.com/W7W460SQ3) )*
-
-*If You want to help me, you can buy me a cup of coffee ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [PayPal](https://paypal.me/enkonu) or [ko-fi](https://ko-fi.com/W7W460SQ3) )* -->
+*If You want to help me, you can buy me a cup of coffee :coffee: ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [ko-fi](https://ko-fi.com/monseg), [boosty.to](https://boosty.to/monseg) )* 
