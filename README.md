@@ -69,6 +69,4 @@ TTK Theme `Spring-Drops` based on theme: Sun-Valley [rdbende](https://github.com
 
 The script is presented in Russian and English versions. There is also an icon in .ICO  and .PNG format
  
----
-
-*If You want to help me, you can buy me a cup of coffee :coffee: ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [ko-fi](https://ko-fi.com/monseg), [boosty.to](https://boosty.to/monseg) )* 
+If You want to help me, you can buy me a cup of coffee :coffee: ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [ko-fi](https://ko-fi.com/monseg), [boosty.to](https://boosty.to/monseg) )* 
